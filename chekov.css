@@ -17,3 +17,17 @@
 .CHEBUTIKIN{
     color: bisque;
 }
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse ;
+    color: red;
+    padding: 5px;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: left;
+}
+tr:nth-child(odd) {
+    background-color:aqua;

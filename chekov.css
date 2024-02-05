@@ -17,6 +17,9 @@
 .CHEBUTIKIN{
     color: bisque;
 }
+.ANDREY{
+    color: red;
+}
 table,th,td{
     border: 1px solid black;
     border-collapse: collapse ;
@@ -31,3 +34,4 @@ td{
 }
 tr:nth-child(odd) {
     background-color:aqua;
+}

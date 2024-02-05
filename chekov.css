@@ -1,0 +1,19 @@
+.Speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: #000;
+}
+.Direction{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.Direction:hover{
+    background-color: aliceblue;
+    color: #000;
+}
+.MASHA{
+    color: blue;
+}
+.CHEBUTIKIN{
+    color: bisque;
+}

@@ -15,12 +15,24 @@
 .MASHA{
     color: blue;
 }
+.MASHA:hover{
+    text-shadow: 1px 1px 5px black;
+    border: 2px solid darkblue;
+  }
 .CHEBUTIKIN{
     color: bisque;
 }
+/*.CHEBUTIKIN:hover{
+    text-shadow: 1px 1px 5px black;
+    border: 2px solid darkblue;
+  } */
 .ANDREY{
     color: red;
 }
+/*.ANDREY:hover{
+    text-shadow: 1px 1px 5px black;
+    border: 2px solid darkblue;
+  } */
 table,th,td{
     border: 1px solid black;
     border-collapse: collapse ;

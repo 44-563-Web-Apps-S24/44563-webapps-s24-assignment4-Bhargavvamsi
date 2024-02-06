@@ -1,3 +1,4 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
 .Speech{
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
@@ -48,3 +49,31 @@ td{
 tr:nth-child(odd) {
     background-color:aqua;
 }
+
+/*.icon {
+    width: 24px;
+    height: 24px;
+  }
+  .icon.car {
+    fill: currentColor;
+  } */
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  
+  }
+  ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color:beige;
+  } 
+  ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+  }
+  ul.navbar-horizontal a:hover {  
+    background-color:blue;
+    color:white;
+  }

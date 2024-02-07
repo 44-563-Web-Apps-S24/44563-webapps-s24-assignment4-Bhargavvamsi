@@ -13,6 +13,10 @@
     background-color:aquamarine;
     color: #000;
 }
+.name{
+    font-weight: bold;
+    color: blueviolet;
+}
 .MASHA{
     color: blue;
 }
